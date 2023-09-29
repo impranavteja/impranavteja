@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=impranavteja&label=Profile%20views&color=0e75b6&style=flat" alt="pranavtej" /> </p>
 
-- 🔭 I’m currently working on **React Native Application**
+- 🔭 I’m currently working on **Nextjs**
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **Nextjs**
 
 - 💬 Ask me about **full stack development**
 
-- 📫 You can contact me at **pranav_mcr@srkrec.edu.in**
+- 📫 You can contact me at **pranavtejapathi@gmail.com**
 
 - 📄 Know about my experiences [Resume](http://pranavteja.tech/files/pranavtejaresume.pdf)
 
